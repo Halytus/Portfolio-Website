@@ -114,6 +114,18 @@
   display: grid;
   grid-template-columns: auto auto auto;
   border: 3px solid #c3c3c3;
+  background-image: url("./Assets/biotextwindow.png");
+  background-size: cover;
+  transition-duration: 3s;
+  overflow: scroll;
+  width: 500px;
+  height: 500px;
+}
+
+.bio {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border: 3px solid #c3c3c3;
   background-image: url("./Assets/Biowindow.png");
   background-size: cover;
   transition-duration: 3s;

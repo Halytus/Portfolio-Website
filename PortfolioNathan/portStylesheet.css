@@ -131,6 +131,9 @@
   width: 500px;
   height: 500px; 
 }
+.bioimg {
+ padding: 50px 50px 50px 50px;
+}
 
 .box1-content {
   border: 3px solid #c3c3c3;

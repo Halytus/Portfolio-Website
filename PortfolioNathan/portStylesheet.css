@@ -123,6 +123,7 @@
   border: 3px solid #c3c3c3;
   background-color: #004d4d;
   background-image: url("./Assets/UXwindow.png");
+  background-size: cover;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -154,6 +155,7 @@
   border: 3px solid #c3c3c3;
   background-color: #004d4d;
   background-image: url("./Assets/Parkpasswindow.png");
+  background-size: cover;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -175,6 +177,7 @@
   border: 3px solid #c3c3c3;
   background-color: #008080;
   background-image: url("./Assets/Win95Template.png");
+  background-size: cover;
   overflow-x: hidden;
   transition-duration: 3s;
   overflow: scroll;
@@ -186,6 +189,7 @@
   border: 3px solid #c3c3c3;
   background-color: #004d4d;
   background-image: url("./Assets/Runescapewindow.png");
+  background-size: cover;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -207,6 +211,7 @@
   border: 3px solid #c3c3c3;
   background-color: #008080;
   background-image: url("./Assets/Win95Template.png");
+  background-size: cover;
   transition-duration: 3s;
   overflow: scroll;
   width: 500px;
@@ -237,6 +242,7 @@
   border: 3px solid #c3c3c3;
   background-color: #008080;
   background-image: url("./Assets/Win95Template.png");
+  background-size: cover;
   transition-duration: 3s;
   overflow: scroll;
   width: 500px;
@@ -247,6 +253,7 @@
   border: 3px solid #c3c3c3;
   background-color: #004d4d;
   background-image: url("./Assets/Censuswindow.png");
+  background-size: cover;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -267,6 +274,7 @@
   border: 3px solid #c3c3c3;
   background-color: #008080;
   background-image: url("./Assets/Win95Template.png");
+  background-size: cover;
   transition-duration: 3s;
   overflow: scroll;
   width: 500px;
